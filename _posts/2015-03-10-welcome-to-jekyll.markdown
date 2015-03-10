@@ -6,4 +6,4 @@ categories: Meta
 ---
 Zero
 
-!(/assets/asset.jpg)
+![](/assets/asset.jpg)
