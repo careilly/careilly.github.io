@@ -6,13 +6,27 @@
 </description>
     <link>http://blog.colmanreilly.com/</link>
     <atom:link href="http://blog.colmanreilly.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Mar 2015 13:39:19 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2015 13:39:19 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2015 10:42:16 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2015 10:42:16 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
+        <title>Hands on: Why trying an Apple Watch made me want to buy one</title>
+        <description>&lt;p&gt;Articles confirming some of how an Apple Watch plays in real life are
+beginning to appear: less intrusive than a phone, not more.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Mar 2015 10:36:23 +0000</pubDate>
+        <link>http://blog.colmanreilly.com/tech/2015/03/11/Apple-Watch-Verge.html</link>
+        <guid isPermaLink="true">http://blog.colmanreilly.com/tech/2015/03/11/Apple-Watch-Verge.html</guid>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
         <title>Post Zero</title>
-        <description>&lt;p&gt;Zero.&lt;/p&gt;
+        <description>&lt;p&gt;Zero&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2015 10:34:23 +0000</pubDate>
         <link>http://blog.colmanreilly.com/meta/2015/03/10/welcome-to-jekyll.html</link>
