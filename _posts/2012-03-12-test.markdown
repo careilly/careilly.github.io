@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post One"
-date:   
+date: 2012-03-12
 categories:
 published: false
 external-url:
