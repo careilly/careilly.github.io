@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Post One"
-date:   
-categories:
+title:  "Writing Tools"  
+categories: Tech
 published: false
-external-url:
 ---
